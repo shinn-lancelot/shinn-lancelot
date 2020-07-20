@@ -1,6 +1,6 @@
 ### Hi there 👋
-<!-- https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif -->
-<img align="right" height="120" alt="GIF" src="https://raw.githubusercontent.com/shinn-lancelot/shinn-lancelot/master/assets/octocat.gif" />
+
+<img align="right" height="120" alt="GIF" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
 - 🏢 I'm a full-stack developer.
 - 🔭 I like open source.
